@@ -389,7 +389,7 @@ footer p {
   gap: 24px;
   margin: 16px 0px 24px 0px;
 }
-@media (width > 768px) {
+@media (min-width: 768) {
   section {
     max-width: 900px;
   }
